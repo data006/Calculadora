@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\cs\CalculadoraCS\CalculadoraCS\bin\Debug\CalculadoraCS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\cs\CalculadoraCS\CalculadoraCS\bin\Debug\CalculadoraCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\cs\CalculadoraCS\CalculadoraCS\bin\Debug\CalculadoraCS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\cs\CalculadoraCS\CalculadoraCS\obj\Debug\CalculadoraCS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\cs\CalculadoraCS\CalculadoraCS\obj\Debug\CalculadoraCS.CalculadoraCS.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\cs\CalculadoraCS\CalculadoraCS\obj\Debug\CalculadoraCS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\cs\CalculadoraCS\CalculadoraCS\obj\Debug\CalculadoraCS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\cs\CalculadoraCS\CalculadoraCS\obj\Debug\CalculadoraCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\cs\CalculadoraCS\CalculadoraCS\obj\Debug\CalculadoraCS.pdb

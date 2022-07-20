@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\vb\Calculadora53\Calculadora53\bin\Debug\Calculadora53.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\vb\Calculadora53\Calculadora53\bin\Debug\Calculadora53.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\vb\Calculadora53\Calculadora53\bin\Debug\Calculadora53.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\vb\Calculadora53\Calculadora53\bin\Debug\Calculadora53.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\vb\Calculadora53\Calculadora53\obj\Debug\Calculadora53.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\vb\Calculadora53\Calculadora53\obj\Debug\Calculadora53.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\vb\Calculadora53\Calculadora53\obj\Debug\Calculadora53.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\vb\Calculadora53\Calculadora53\obj\Debug\Calculadora53.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\vb\Calculadora53\Calculadora53\obj\Debug\Calculadora53.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\vb\Calculadora53\Calculadora53\obj\Debug\Calculadora53.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\2\vb\Calculadora53\Calculadora53\obj\Debug\Calculadora53.Calculadora.resources
